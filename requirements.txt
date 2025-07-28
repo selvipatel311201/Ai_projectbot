@@ -1,0 +1,27 @@
+# Core app
+streamlit
+
+# Data handling
+pandas
+numpy
+
+# Document parsing
+Pillow
+PyPDF2
+python-pptx
+openpyxl
+python-docx
+
+# NLP & Semantic Search
+sentence-transformers
+sentencepiece
+faiss-cpu
+
+# Google Drive API
+google-api-python-client
+google-auth
+google-auth-oauthlib
+google-auth-httplib2
+oauth2client
+
+#
